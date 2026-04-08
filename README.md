@@ -1,4 +1,4 @@
-# insurance-claim-prediction
+# Insurance-claim-prediction
 # Machine Learning project using PySpark to predict insurance claims
 
 Project Description
